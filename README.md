@@ -1,1 +1,1 @@
-# SQL-Alchemy-Challenge
+Module 10 SQLAlchemy Challenge. In this repositry I have uploaded a folder called Surfs-up which contains a Resources folder with the raw data, a .py file called weather_app which contains the code for part 2 of the assingment and a pandas file called climate_starter which contains the code for Part 1 of the assignment. To create the code I adapted code from class activities and lectures.
